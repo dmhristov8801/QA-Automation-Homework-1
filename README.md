@@ -10,8 +10,4 @@ You are given a C# class Collection<T>, which implements a generic collection, h
   
 Write unit tests for the class Collection<T>. Ensure that the code coverage is high and that all interesting cases are covered: test all public methods, test the auto growing of the underlying array, test with valid and invalid ranges, and try to cover all other special cases.
 Hints :
-•	Test all public methods.
-•	Think about all different scenarios, which can happen, e. g. insert at the start, insert at the end, insert at the middle, insert with auto-grow, insert at invalid   
-  position, insert into empty collection, etc.
-•	Ensure you test each method with valid and invalid data.
-•	Implement a performance test with 1 million items, with timeout.
+•	Test all public methods.;	Think about all different scenarios, which can happen, e. g. insert at the start, insert at the end, insert at the middle, insert with auto-grow, insert at invalid position, insert into empty collection, etc.;Ensure you test each method with valid and invalid data.;Implement a performance test with 1 million items, with timeout.

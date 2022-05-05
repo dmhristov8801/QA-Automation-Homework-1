@@ -1,2 +1,2 @@
-# QA-Automation-Homework-1
+# Homework 1 QA-Automation
 Unit &amp; Nunit testing 
